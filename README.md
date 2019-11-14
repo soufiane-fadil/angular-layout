@@ -1,3 +1,6 @@
+# Making of
+Youtube: https://youtu.be/U4ftsqSt81w
+
 # Reusable Layout Component using Angular Routing and Flex-layout (FlexBox)
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-a3a4wy)
